@@ -4,3 +4,6 @@ In today’s digital age, the uncontrolled use of the internet among children an
 
 ## Approach
 This task aims to develop a predictive model capable of analyzing data related to the physical activity and habits of children and adolescents to identify early signs of unhealthy internet and technology usage. In this tabular data problem, we focus on using several decision-tree-based classification models such as XGBoost and LightGBM, in combination with the information provided in tabular form, to make the most accurate assessment of the internet usage patterns of the surveyed subjects. Additionally, during the research and evaluation process, we incorporate deep learning models such as AutoEncoder to enhance data analysis efficiency. The details will be outlined below, with two main sections: data processing and model training construction.
+
+## Result
+![img.png](img.png)
