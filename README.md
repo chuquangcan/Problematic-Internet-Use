@@ -1,1 +1,6 @@
 # Problematic-Internet-Use
+## Overview Problem
+### In today’s digital age, the uncontrolled use of the internet among children and adolescents is becoming a significant concern. This phenomenon not only affects mental health but is also closely linked to issues such as depression and anxiety.
+### However, current methods for assessing unhealthy internet usage are often complex and require professional intervention. This inadvertently creates barriers in terms of accessibility, language, and culture for many families. As a result, instead of directly measuring it, this issue is often identified through negative impacts, such as a decline in mental health.
+### On the other hand, indicators related to physical activity and fitness are much more accessible, not requiring deep intervention or specialized knowledge. Changes in physical habits, such as poor posture, irregular eating patterns, and reduced physical activity, are common signs in individuals who overuse technology. Based on this connection, we propose using simple and available fitness indicators as an alternative tool to detect early signs of uncontrolled internet usage in children and adolescents, especially in contexts where experts or appropriate assessment tools are unavailable.
+
